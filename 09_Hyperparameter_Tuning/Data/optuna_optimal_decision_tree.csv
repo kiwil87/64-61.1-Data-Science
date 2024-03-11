@@ -428,7 +428,7 @@ PassengerId,Transported
 0887_01,False
 0887_02,False
 0888_01,False
-0888_02,True
+0888_02,False
 0891_01,True
 0892_01,True
 0892_02,True
@@ -556,7 +556,7 @@ PassengerId,Transported
 1145_03,False
 1145_04,True
 1151_01,True
-1157_01,True
+1157_01,False
 1158_01,True
 1158_02,True
 1159_01,True
@@ -721,7 +721,7 @@ PassengerId,Transported
 1475_01,True
 1476_01,False
 1477_01,True
-1477_02,True
+1477_02,False
 1480_01,True
 1482_01,True
 1483_01,True
@@ -868,7 +868,7 @@ PassengerId,Transported
 1793_02,True
 1794_01,False
 1795_01,False
-1801_01,False
+1801_01,True
 1801_02,False
 1809_01,True
 1814_01,False
@@ -922,7 +922,7 @@ PassengerId,Transported
 1910_04,False
 1912_01,False
 1913_01,True
-1913_02,True
+1913_02,False
 1913_03,True
 1914_01,True
 1917_01,True
@@ -956,7 +956,7 @@ PassengerId,Transported
 1990_01,True
 1990_02,True
 1998_01,False
-2002_01,True
+2002_01,False
 2004_01,True
 2005_01,False
 2005_02,True
@@ -1257,7 +1257,7 @@ PassengerId,Transported
 2667_04,True
 2667_05,True
 2669_01,False
-2673_01,False
+2673_01,True
 2674_01,True
 2674_02,False
 2680_01,False
@@ -1525,7 +1525,7 @@ PassengerId,Transported
 3277_01,False
 3278_01,True
 3281_01,True
-3285_01,False
+3285_01,True
 3285_02,True
 3286_01,False
 3288_01,True
@@ -1581,13 +1581,13 @@ PassengerId,Transported
 3385_01,True
 3388_01,True
 3393_01,False
-3398_01,True
+3398_01,False
 3399_01,False
 3400_01,True
 3407_01,True
 3407_02,False
 3411_01,False
-3411_02,False
+3411_02,True
 3411_03,False
 3411_04,False
 3411_05,True
@@ -1609,7 +1609,7 @@ PassengerId,Transported
 3466_01,False
 3471_01,False
 3472_01,True
-3477_01,False
+3477_01,True
 3477_02,True
 3479_01,False
 3481_01,False
@@ -1927,7 +1927,7 @@ PassengerId,Transported
 4124_01,True
 4126_01,False
 4133_01,True
-4133_02,True
+4133_02,False
 4136_01,True
 4136_02,False
 4138_01,False
@@ -2065,7 +2065,7 @@ PassengerId,Transported
 4455_01,False
 4455_02,False
 4455_03,True
-4458_01,False
+4458_01,True
 4460_01,True
 4468_01,True
 4471_01,False
@@ -2132,7 +2132,7 @@ PassengerId,Transported
 4618_01,False
 4619_01,True
 4626_01,True
-4626_02,True
+4626_02,False
 4627_01,False
 4629_01,False
 4636_01,True
@@ -2161,7 +2161,7 @@ PassengerId,Transported
 4685_01,True
 4687_01,False
 4688_01,False
-4692_01,True
+4692_01,False
 4697_01,True
 4698_01,True
 4700_01,True
@@ -2337,7 +2337,7 @@ PassengerId,Transported
 5079_01,True
 5081_01,False
 5082_01,True
-5086_01,True
+5086_01,False
 5086_02,True
 5092_01,False
 5094_01,True
@@ -2545,7 +2545,7 @@ PassengerId,Transported
 5567_01,False
 5570_01,True
 5576_01,True
-5577_01,False
+5577_01,True
 5577_02,True
 5577_03,True
 5577_04,True
@@ -3233,7 +3233,7 @@ PassengerId,Transported
 7100_01,True
 7100_02,False
 7101_01,False
-7101_02,True
+7101_02,False
 7102_01,True
 7103_01,False
 7103_02,True
@@ -3554,7 +3554,7 @@ PassengerId,Transported
 7732_01,False
 7733_01,False
 7734_01,True
-7735_01,True
+7735_01,False
 7737_01,True
 7740_01,True
 7740_02,True
@@ -3667,7 +3667,7 @@ PassengerId,Transported
 7977_01,True
 7978_01,True
 7978_02,False
-7979_01,False
+7979_01,True
 7980_01,False
 7991_01,False
 7991_02,True
@@ -3979,7 +3979,7 @@ PassengerId,Transported
 8677_01,False
 8677_02,True
 8677_03,True
-8678_01,False
+8678_01,True
 8678_02,False
 8679_01,True
 8682_01,False
@@ -4071,7 +4071,7 @@ PassengerId,Transported
 8859_01,False
 8866_01,True
 8870_01,True
-8870_02,False
+8870_02,True
 8873_01,True
 8873_02,False
 8873_03,True
